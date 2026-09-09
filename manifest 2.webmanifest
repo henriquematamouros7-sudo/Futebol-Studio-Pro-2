@@ -1,0 +1,16 @@
+{
+  "name": "Futebol Studio - Master Suite",
+  "short_name": "FS Master",
+  "description": "Terminal de gestão inteligente do Futebol Studio.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070d18",
+  "theme_color": "#070d18",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
